@@ -1,3 +1,3 @@
 # Olá Mundo!
- primeiro repositorio versionado
+ primeiro repositorio versionado.
  Repositorio criando numa aula ao vivo
